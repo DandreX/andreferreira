@@ -4,7 +4,7 @@ bio:                'some bio potato'
 description:        "some desc tomato"
 locale:             en_US
 baseurl: "/andreferreira" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site
+url: "https://dandrex.github.io/" # the base hostname & protocol for your site
 
 # Comments
 disqus_shortname:   default
