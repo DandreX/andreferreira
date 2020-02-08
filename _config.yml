@@ -3,7 +3,7 @@ title:              Andres's Jekyll Tests
 bio:                'some bio potato'
 description:        "some desc tomato"
 locale:             en_US
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/andreferreira" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 
 # Comments
@@ -67,5 +67,5 @@ jekyll-mentions:
 # Exclude list
 exclude: [README.md, Gemfile, Gemfile.lock, node_modules, gulpfile.js, package.json, _site, src, vendor, CNAME, LICENSE, Rakefile, old]
 
-remote_theme: irubataru/massively-jekyll-theme
+remote_theme: jekyllup/jekyll-theme-massively
 
